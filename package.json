@@ -1,6 +1,13 @@
 {
-	"author": "Ksenia the Author",
+	"author": "Ksenia The Author",
 	"name": "fcc-learn-npm-package-json",
+	"description": "teaches how to use package.json for node.js project or other packages",
+	"keywords": [
+		"freecodecamp",
+		"packagejson",
+		"microservices"
+	],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
